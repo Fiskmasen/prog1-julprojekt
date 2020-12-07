@@ -1,3 +1,3 @@
 # prog1-julprojekt
  
-Srängar, så sjukt kul och viktigt. Jag ska förjupa mig och jobba med kapitel 5.
+Strängar, så sjukt kul och viktigt. Jag ska förjupa mig och jobba med kapitel 5. Jag kommer nog även jobba lite mera med miniräknaren.
